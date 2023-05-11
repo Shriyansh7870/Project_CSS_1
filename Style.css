@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.blur{
+    filter:blur(5px);
+}
+.navbar{
+    height:70px;
+    background-color: rgba(39, 234, 237, 0.719);
+    box-shadow: 5px 5px 10px grey;
+}
+.nav1{
+   
+    padding: 10px;
+    font-size:xx-large;
+    text-transform: uppercase;
+}
+#nav2{
+    color: blue;
+    text-transform: uppercase;
+}
+.circle{
+    top:105px;  
+    left:1050px;
+    position:absolute;
+   font-size: 30px;
+   color: black;
+   font-weight: bold;
+   text-decoration: none;
+}
+h3{
+    top:105px;
+    left:1090px;
+    position:absolute;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+.container{
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-self: flex-start;
+    margin-left: 180px;
+    gap:20px;
+}
+.box{
+    width:350px;
+    height: 250px;
+    border-radius: 20px;
+    background-color: rgb(240, 239, 233);
+    border: 2px solid black;
+}
+input[type=checkbox]{
+    margin-top: 30px;
+    margin-left: 20px;
+    width:20px;
+    height: 20px;
+}
+#text{
+   margin-left:20px;
+    text-decoration: line-through;
+    color: grey;
+  
+}
+#text2{
+    margin-left:20px;
+    color: gray;
+}
+#trip{
+    color: blue;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+}
+hr{
+   margin-top: 10px;
+}
+#trip1{
+    color: blue;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+}
+#trip2{
+    color: blue;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+}
+#trip3{
+    color: blue;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+}
+#trip4{
+    color: blue;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.container2{
+    position: relative;
+    top: -500px;
+    left: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-self:start;
+    margin-left: 180px;
+}
+.box2{
+    width:350px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: rgb(240, 239, 233);
+    border: 2px solid black; 
+}
+input[type=text]{
+    margin-top: 30px;
+    margin-left: 20px;
+    width:300px;
+    height: 25px;
+    font-weight: bold;
+    color: black;
+    font-size: x-large;
+
+}
+hr{
+    margin-top: 10px;
+ }
+ #Task2{
+   
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+ }
+ .button1{
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 30px;
+    margin-top: 4px;
+    margin-left: 220px;
+ }
+ .circle2{
+    top:125px;
+    left:825px;
+    position:absolute;
+   font-size: 30px;
+   font-weight: bold;
+   color:white;
+   text-decoration: none;
+}
+.box4{
+    text-decoration: none;
+    margin-top: 120px;
+    margin-right: 600px;
+    float:right;
+    width:350px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: rgb(240, 239, 233);
+    border: 2px solid black;
+}
+.box4 a{
+    text-decoration: none;
+}
+.nav2{
+    padding: 10px;
+    font-size:xx-large;
+    text-transform: uppercase; 
+}
+#nav3{
+    color: blue;
+    text-transform: uppercase; 
+}
+.navbar1{
+  width: auto;
+    background-color: beige;
+    box-shadow: 5px 5px 10px grey;  
+}
+.Back{
+    top:125px;
+    left:600px;
+    position:absolute;
+   font-size:large;
+   color:white;
+}
+#bac{
+    padding:8px;
+    word-spacing: 8px;
+}
+#task10{
+top:130px;
+left:880px;
+}
+.con{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-self:start;
+    margin-left: 180px;
+    top:150px;
+    left:400px;
+}
+.con2{
+    
+    width:350px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: rgb(240, 239, 233);
+    border: 2px solid black; 
+}
+h4{
+    position: relative;
+    margin-left: 5px;
+    padding: 6px;
+    font-weight: bolder;
+    font-size: large;
+}
+.cross{
+    position:fixed;
+   margin-left: 320px;
+   margin-top: -120px;
+}
+.blur2{
+    filter:blur(6px);
+}
+
+
