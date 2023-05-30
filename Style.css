@@ -1,7 +1,9 @@
+
 *{
     margin: 0;
     padding: 0;
 }
+
 .blur{
     filter:blur(5px);
 }
@@ -20,14 +22,24 @@
     color: blue;
     text-transform: uppercase;
 }
-.circle{
+.circle{  
     top:105px;  
-    left:1050px;
+ margin-left:1050px;
     position:absolute;
    font-size: 30px;
    color: black;
    font-weight: bold;
    text-decoration: none;
+}
+.circle2{
+    top:155px;
+    left:720px;
+    position:absolute;
+   font-size:xx-large;
+   color:white; 
+}
+#plus{
+    background-color: blue;
 }
 h3{
     top:105px;
@@ -45,6 +57,9 @@ h3{
     justify-self: flex-start;
     margin-left: 180px;
     gap:20px;
+}
+a{
+    text-decoration: none;
 }
 .box{
     width:350px;
@@ -145,19 +160,10 @@ hr{
     margin-top: 4px;
     margin-left: 220px;
  }
- .circle2{
-    top:125px;
-    left:825px;
-    position:absolute;
-   font-size: 30px;
-   font-weight: bold;
-   color:white;
-   text-decoration: none;
-}
 .box4{
     text-decoration: none;
-    margin-top: 120px;
-    margin-right: 600px;
+    margin-top: 150px;
+    margin-right: 500px;
     float:right;
     width:350px;
     height: 200px;
@@ -183,8 +189,8 @@ hr{
     box-shadow: 5px 5px 10px grey;  
 }
 .Back{
-    top:125px;
-    left:600px;
+    top:165px;
+    left:520px;
     position:absolute;
    font-size:large;
    color:white;
@@ -194,17 +200,17 @@ hr{
     word-spacing: 8px;
 }
 #task10{
-top:130px;
-left:880px;
+top:165px;
+left:780px;
 }
 .con{
     position: relative;
     display: flex;
     flex-wrap: wrap;
     justify-self:start;
-    margin-left: 180px;
+    margin-left: 160px;
     top:150px;
-    left:400px;
+    left:420px;
 }
 .con2{
     
@@ -225,6 +231,11 @@ h4{
     position:fixed;
    margin-left: 320px;
    margin-top: -120px;
+}
+.cross2{
+    position:fixed;
+    margin-left: 320px;
+    margin-top: -120px;  
 }
 .blur2{
     filter:blur(6px);
